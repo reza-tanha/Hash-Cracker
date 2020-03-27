@@ -1,5 +1,7 @@
 # Hash-Cracker
-A tool for cracking different hashes
+A tool for cracking different hashes . The hashes that the tool supports are (MD5 ,SHA1 ,SHA256 , SHA512) .
+The tool can retrieve a hash or a file hash or a combo list  and cracking all on the wordlist .
+coded by [Gray Security Team](https://T.me/S3CURITY_GRAY)
 
 
 
