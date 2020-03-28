@@ -4,6 +4,16 @@ The tool can retrieve a hash or a file hash or a combo list  and cracking all on
 coded by [Gray Security Team](https://T.me/S3CURITY_GRAY)
 
 
+### Crack a hash
+![alt text](http://s6.picofile.com/file/8392327884/one.png "Crack a Hash ")
+
+
+### Crack a hash file
+![alt text](http://s6.picofile.com/file/8392328084/file.png "Crack HAsh File ")
+
+
+### Crack a combo file
+![alt text](http://s7.picofile.com/file/8392328134/com.png "Crack Combo file ")
 
 
 
