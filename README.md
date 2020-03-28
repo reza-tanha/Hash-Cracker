@@ -13,7 +13,7 @@ coded by [Gray Security Team](https://T.me/S3CURITY_GRAY)
 
 
 ### Crack a combo file
-![alt text](http://s7.picofile.com/file/8392328134/com.png "Crack Combo file ")
+![alt text](http://s6.picofile.com/file/8392328792/com.png "Crack Combo file ")
 
 
 
