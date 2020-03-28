@@ -5,15 +5,15 @@ coded by [Gray Security Team](https://T.me/S3CURITY_GRAY)
 
 
 ### Crack a hash
-![alt text](http://s6.picofile.com/file/8392327884/one.png "Crack a Hash ")
+![alt text](http://s7.picofile.com/file/8392331626/one.png "Crack a Hash ")
 
 
 ### Crack a hash file
-![alt text](http://s6.picofile.com/file/8392328084/file.png "Crack HAsh File ")
+![alt text](http://s6.picofile.com/file/8392331634/file.png "Crack HAsh File ")
 
 
 ### Crack a combo file
-![alt text](http://s6.picofile.com/file/8392328792/com.png "Crack Combo file ")
+![alt text](http://s7.picofile.com/file/8392331642/com.png "Crack Combo file ")
 
 
 
